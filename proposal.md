@@ -2,16 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
-Super Mario
+Bhag Dino Bhag
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A game with pyramid blocks where you pass levels.
+It's a game wherein the player is supposed to face obstacles
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-We will be working on python for this project. We will use the mario source code from the last track lesson, add a pyramid of blocks to the generated level, add a flag at the end of the level that either loads a new level or simply displays a victory message to the screen.
-
+The software we used is pygame
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
 TODO, if applicable
@@ -38,7 +37,7 @@ We hope to gain perfect clarity of the project and divide the code work among us
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-We might need to look more into the mario labs to get ourselves a refresher. We will be going through the requirements given on canvas as this project is one of the many listed under modules.
-Maahin Mirza(me): class, main, map, fonts
-Saumika Pandey: Animation, graphics, sounds
-Kesia John: player,push, utility
+We might look into the modules and textbook for reference. We will be going through the requirements given on canvas as this project is one of the many listed under modules.
+Maahin Mirza(me): animation, font, obstacles, voiceover
+Saumika Pandey: background, time, setting up pygame, voiceover
+Kesia John: 
